@@ -1,9 +1,6 @@
 # hello-world
 This repository is for practising the GitHub Flow and all other interesting trinkets to accomplish the creation of the amazing project.
 
-# Moja Testera
-Mjesto za testiranje Git koda i opcija sustava online ili lokalno s VS Code
-
 ## Purpose
 
 ## Interactive Responsive Website
